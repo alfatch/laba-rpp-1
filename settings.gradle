@@ -1,0 +1,4 @@
+rootProject.name='Solution'
+include ':app'
+include ':lw_01_0'
+include ':lw_01_1'
